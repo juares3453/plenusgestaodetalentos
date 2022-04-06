@@ -1,0 +1,60 @@
+/*
+-- Estilos CSS - Website da Empresa
+*/
+
+body {
+  background-color: #251c4f;
+
+}
+
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container figure i{
+  margin-left: 307px;
+  margin-top: 382px; 
+  color: #251c4f;
+  border-radius: 50%;
+  position: absolute;
+}
+
+.container figure f{
+  margin-left: 280px;
+  margin-top: 382px; 
+  color: #251c4f;
+  border-radius: 50%;
+  position: absolute;
+}
+
+.container figure w{
+  margin-left: 190px;
+  margin-top: 323px; 
+  color: #251c4f;
+  border-radius: 50%;
+  position: absolute;
+}
+
+.container figure l{
+  margin-left: 287px;
+  margin-top: 468px; 
+  color: #251c4f;
+  border-radius: 50%;
+  position: absolute;
+}
+
+.container figure img{
+   box-shadow: 0 0 15px black;
+   margin-left: 50px; 
+   margin-top: 70px; 
+   height: 500;
+}
+
+.fa-2x{
+  height: 2% !important;
+  width: -20% !important;
+}
+
+
